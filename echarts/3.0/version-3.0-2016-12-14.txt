@@ -1,0 +1,11 @@
+主题：
+	vintage.js：复古主题
+	dark.js：黑色主题
+地图数据：
+	china.json：中国数据
+	world.json：世界数据
+源码版本：
+	echarts.js
+生产版本：
+	echarts.min.js
+
